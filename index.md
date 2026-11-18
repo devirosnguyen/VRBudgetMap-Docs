@@ -70,5 +70,4 @@ When reporting a problem, please include your Unity version, URP version, build 
 
 ---
 
-This repository contains documentation only. VR Budget Map is sold on the Unity Asset Store by JieYingStudio.
-For Meta Quest, Pico and PC VR projects on URP.
+This repository contains documentation only.
